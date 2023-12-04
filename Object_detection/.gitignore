@@ -1,0 +1,10 @@
+.idea/
+test/
+train/
+valid/
+venve/
+venv/
+dataset_panneau.zip
+ikaros.py
+doss/
+*.jpg
