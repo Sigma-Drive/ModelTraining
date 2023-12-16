@@ -9,3 +9,4 @@ ikaros.py
 doss/
 *.jpg
 detection_data
+.DS_Store

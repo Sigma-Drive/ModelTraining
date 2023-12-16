@@ -1,1 +1,1 @@
-gcloud storage buckets create gs://BUCKET_NAME --project=sigma-drive-408311 --default-storage-class=STORAGE_CLASS --location=europe-west9
+gcloud storage buckets create gs://sigma-drive --project=sigma-drive-408311 --default-storage-class=STANDARD --location=europe-west9
