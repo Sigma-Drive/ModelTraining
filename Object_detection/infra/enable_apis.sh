@@ -1,0 +1,1 @@
+gcloud services enable notebooks.googleapis.com
